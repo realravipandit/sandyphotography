@@ -811,6 +811,7 @@ input:required {
   .classy-nav-container .classy-navbar .nav-brand {
     max-width: fit-content;
     margin-right: 15px;
+    border-radius: 15px;
   }
 }
 
